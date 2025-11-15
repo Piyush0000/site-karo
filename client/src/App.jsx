@@ -11,6 +11,8 @@ import AnimatedBackground from './components/AnimatedBackground';
 import ScrollToTop from './components/ScrollToTop';
 import './App.css';
 
+// done wih imports
+
 function App() {
   return (
     <Router>
